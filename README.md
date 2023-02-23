@@ -1,5 +1,5 @@
-# fact-or-artifact-PAKDD23
-Supplementary material for manuscript submitted to PAKDD 2023.
+# fact-or-artifact
+Supplementary material for manuscript submitted to ICANN 2023.
 
 - real world and synthetic data
 - trained models
